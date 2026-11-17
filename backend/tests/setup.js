@@ -1,0 +1,1 @@
+process.env.NODE_ENV='test';process.env.JWT_SECRET='test-jwt-secret-32-characters-minimum';process.env.HMAC_SECRET='test-hmac-secret-32-characters-minimum';process.env.CORS_ORIGIN='http://localhost:5173';
